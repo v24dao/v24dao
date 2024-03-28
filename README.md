@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Vu</h1>
 <h3 align="center">A passionate Front End developer from London</h3>
 
-- 🔭 I’m currently creating **stunning websites for small businesses as a freelance developer**
+- 🔭 I’m currently creating [stunning websites for small businesses]() as a freelance developer
 
-- 🌱 Technologies I am currently learning include **React and Node.JS**
+- 🌱 Technologies I am currently learning include **React** and **Node.JS**
 
-- 👨‍💻 All of my projects are available at [vucodes.com](vucodes.com)
+- 👨‍💻 All of my projects are available at [vucodes.com]()
 
 - 📫 How to reach me **v24dao@gmail.com**
 
-- ⚡ My interests outside of coding are **Powerlifting and Gaming**
+- ⚡ My interests outside of coding are **Powerlifting** and **Gaming**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/vucodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vucodes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vu-dao-b644221bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vu-dao-b644221bb" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>   
