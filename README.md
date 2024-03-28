@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently creating **stunning websites for small businesses**
 
-- 🌱 Frameworks I am currently learning are **React and Node.JS**
+- 🌱 Technologies I am currently learning include **React and Node.JS**
 
 - 👨‍💻 All of my projects are available at [vucodes.com](vucodes.com)
 
