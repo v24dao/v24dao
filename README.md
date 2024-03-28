@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vu</h1>
 <h3 align="center">A passionate Front End developer from London</h3>
 
-- 🔭 I’m currently creating **stunning websites for small businesses**
+- 🔭 I’m currently creating **stunning websites for small businesses as a freelance developer**
 
 - 🌱 Technologies I am currently learning include **React and Node.JS**
 
