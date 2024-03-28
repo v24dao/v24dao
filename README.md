@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vu</h1>
 <h3 align="center">A passionate frontend developer from London</h3>
 
-- 🌱 I’m currently learning **React, Node.JS**
+<p align= "center">- 🌱 I’m currently learning **React, Node.JS**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
