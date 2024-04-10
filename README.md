@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vu</h1>
 <h3 align="center">A passionate Front End developer from London</h3>
 
-<p align="center"> 🔭 I’m currently creating stunning websites for small businesses as a freelance developer</p>
+<p align="center"> 🔭 I’m currently building <a target="_blank" href="habitforecast.com">Habit Forecast</a> and creating stunning websites for small businesses as a freelance developer.</p>
 <p align="center">🌱 Technologies I am currently learning include: React and Node.js</p>
 <p align="center">👨‍💻 All of my projects are available at: <a target="_blank" href="vucodes.com">vucodes.com</a></p>
 <p align="center">📫 How to reach me: <a target="_blank" href="v24dao@gmail.com">v24dao@gmail.com</a></p>
