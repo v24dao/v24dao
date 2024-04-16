@@ -4,7 +4,7 @@
 <p align="center"> 🔭 I’m currently building <a target="_blank" href="https://habitforecast.com">Habit Forecast</a> and creating stunning websites for small businesses as a freelance developer.</p>
 <p align="center">🌱 Technologies I am currently learning include: React and Node.js</p>
 <p align="center">👨‍💻 All of my projects are available at: <a target="_blank" href="https://vucodes.com">vucodes.com</a></p>
-<p align="center">📫 How to reach me: <a target="_blank" href="v24dao@gmail.com">v24dao@gmail.com</a></p>
+<!-- <p align="center">📫 How to reach me: <a target="_blank" href="v24dao@gmail.com">v24dao@gmail.com</a></p> -->
 <p align="center">⚡ My interests outside of coding include: Powerlifting, Travelling and Gaming</p>
 
 <h3 align="center">Connect with me:</h3>
