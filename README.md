@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vu</h1>
-<h3 align="center">Front End developer from London</h3>
+<h3 align="center">A Front End developer from London</h3>
 
 <p align="center"> 🔭 I’m currently building <a target="_blank" href="https://habitforecast.com">Habit Forecast</a> and creating stunning websites for small businesses as a freelance developer.</p>
 <p align="center">🌱 Technologies I am currently learning include: React and Node.js</p>
