@@ -2,10 +2,10 @@
 <h3 align="center">A Front End developer from London</h3>
 
 <p align="center"> 🔭 I’m currently building <a target="_blank" href="https://habitforecast.com">Habit Forecast</a> and creating stunning websites to hlep small businesses build an online presence.</p>
-<p align="center">🌱 Technologies I am currently learning include: Node.js</p>
+<p align="center">🌱 Technologies I am currently learning include: React & Node.js</p>
 <p align="center">👨‍💻 All of my projects are available at: <a target="_blank" href="https://vucodes.com">vucodes.com</a></p>
 <!-- <p align="center">📫 How to reach me: <a target="_blank" href="v24dao@gmail.com">v24dao@gmail.com</a></p> -->
-<p align="center">⚡ My interests outside of coding include: Travelling, reading, lifting and gaming</p>
+<p align="center">⚡ My interests outside of coding include: Travelling, reading, lifting & gaming</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
