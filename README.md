@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vu</h1>
 <h3 align="center">A Front End developer from London</h3>
 
-<p align="center"> 🔭 I’m currently building <a target="_blank" href="https://habitforecast.com">Habit Forecast</a> and creating stunning websites for small businesses as a freelance developer.</p>
-<p align="center">🌱 Technologies I am currently learning include: React and Node.js</p>
+<p align="center"> 🔭 I’m currently building <a target="_blank" href="https://habitforecast.com">Habit Forecast</a> and creating stunning websites to hlep small businesses build an online presence.</p>
+<p align="center">🌱 Technologies I am currently learning include: Node.js</p>
 <p align="center">👨‍💻 All of my projects are available at: <a target="_blank" href="https://vucodes.com">vucodes.com</a></p>
 <!-- <p align="center">📫 How to reach me: <a target="_blank" href="v24dao@gmail.com">v24dao@gmail.com</a></p> -->
-<p align="center">⚡ My interests outside of coding include: Powerlifting, Travelling and Gaming</p>
+<p align="center">⚡ My interests outside of coding include: Travelling, reading, lifting and gaming</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/vucodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vucodes" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/vucodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vucodes" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/vu-dao-b644221bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vu-dao-b644221bb" height="30" width="40" /></a>
 </p>
 
